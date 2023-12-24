@@ -1,0 +1,16 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "completed": "checkbox",
+    "h": "number",
+    "rating": "text",
+    "watched": "checkbox",
+    "director": "text",
+    "root": "text",
+    "watchlist": "text",
+    "genre": "multitext",
+    "cast": "multitext"
+  }
+}

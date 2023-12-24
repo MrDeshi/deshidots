@@ -1,0 +1,26 @@
+{
+  "spellcheckDictionary": [
+    "michi",
+    "starfield",
+    "assistant",
+    "drawing",
+    "supsi",
+    "tiktok",
+    "tv",
+    "pc",
+    "cd",
+    "dir",
+    "senza",
+    "argomento",
+    "dual",
+    "Geralt",
+    "Rivia"
+  ],
+  "spellcheck": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "zettelkasten atoms",
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "visible",
+  "attachmentFolderPath": "referenceNotes/materials",
+  "promptDelete": false
+}

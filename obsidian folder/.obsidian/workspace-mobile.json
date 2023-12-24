@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "93ac2087da0dc123",
+    "type": "split",
+    "children": [
+      {
+        "id": "57a09f906a1556e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1786d86f846c9c5d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d764c292b1f06445",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fac89e11cbac8d9c",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d8c33b6536d60c9a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5f8ee74501f06799",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "a30df3d9225f8160",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "78103f0c93862b68",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b4bb3ce086e0e492",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "d3ff1b12dc052362",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "02193fd4d0cfe0fe",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "21666cb881888e6a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "3d-graph:3D Graph": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fac89e11cbac8d9c",
+  "lastOpenFiles": [
+    "/referenceNotes/ambienti_operativi/handwritten",
+    "sanctum sanctorum/2023-10-06.md",
+    "sanctum sanctorum/2023-10-03.md",
+    "zettelkasten atoms/spesa.md",
+    "referenceNotes/tecnica_digitale/material/serie",
+    "referenceNotes/tecnica_digitale/material",
+    "referenceNotes/tecnica_digitale/handwritten",
+    "referenceNotes/precalcolo/material/serie",
+    "referenceNotes/precalcolo/material",
+    "referenceNotes/precalcolo/handwritten",
+    "referenceNotes/fondamenti_informatica/material/serie",
+    "referenceNotes/fondamenti_informatica/material",
+    "referenceNotes/fondamenti_informatica/handwritten",
+    "referenceNotes/fondamenti_informatica/codici/EsempiSlides_PrimiProgrammi/EsempiSlides",
+    "zettelkasten atoms/move folders linux.md",
+    "zettelkasten atoms/mkdir.md",
+    "/referenceNotes/materials/Pasted image 20231003093538.png",
+    "/referenceNotes/materials/Pasted image 20231003092559.png",
+    "/referenceNotes/materials/Pasted image 20231003092139.png",
+    "/referenceNotes/fondamenti_informatica/Drawing 2023-09-26 15.10.11.excalidraw.md",
+    "dataview querys/by ratio status/computer science.md",
+    "/dataview querys/by ratio status/computer science.md",
+    "zettelkasten atoms/workout HARD PUSH lite pull.md",
+    "sanctum sanctorum/2023-10-02.md",
+    "/referenceNotes/precalcolo/serie/Drawing 2023-09-29 20.03.43.excalidraw.md",
+    "templates/Atom BRAINSTORM.md",
+    "dataview querys/by material status/Cinema gallery.md",
+    "referenceNotes/precalcolo/serie/Drawing 2023-09-29 20.03.43.excalidraw.md",
+    "referenceNotes/materials/Pasted Image 20230929200358_712.png",
+    "referenceNotes/materials/Pasted Image 20230929194044_399.png",
+    "referenceNotes/fisica/serie/Drawing 2023-09-29 19.40.29.excalidraw.md",
+    "/referenceNotes/materials/Pasted Image 20230929200358_712.png",
+    "/referenceNotes/materials/Pasted Image 20230929194044_399.png",
+    "/referenceNotes/fisica/serie/Drawing 2023-09-29 19.40.29.excalidraw.md",
+    "/referenceNotes/ambienti_operativi/serie/Drawing 2023-09-29 13.43.29.excalidraw.md",
+    "zettelkasten atoms/Ridley Scott.md",
+    "movies/Exodus Gods and Kings.md",
+    "referenceNotes/materials/Pasted Image 20230929134336_986.png",
+    "referenceNotes/ambienti_operativi/serie/ambienti operativi s1.md",
+    "referenceNotes/ambienti_operativi/serie/Drawing 2023-09-29 13.43.29.excalidraw.md",
+    "/referenceNotes/materials/Pasted Image 20230929134336_986.png",
+    "/referenceNotes/ambienti_operativi/serie/ambienti operativi s1.md",
+    "movies/Iron Man.md",
+    "dataview querys/by ratio status/bash.md",
+    "zettelkasten atoms/wget.md",
+    "referenceNotes/materials/Pasted image 20230929114457.png",
+    "canvas/Bash sumup.canvas",
+    "/canvas/Bash sumup.canvas",
+    "/canvas/mathematics mind map.canvas"
+  ]
+}
